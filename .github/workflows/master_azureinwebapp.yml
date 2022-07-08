@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'azureinwebapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_336EDFE055BF447D895C604AC1E557D2 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C8C460B70F6243569F1C5886C0F7C454 }}
           package: '*.jar'
